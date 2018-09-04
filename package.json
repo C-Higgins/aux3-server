@@ -1,0 +1,12 @@
+{
+  "name": "aux3-server",
+  "version": "0.1.0",
+  "description": "Server for Aux3",
+  "main": "src/index.ts",
+  "repository": "git@github.com:C-Higgins/aux3-server.git",
+  "author": "Chris Higgins <ChrisHiggins2012@gmail.com>",
+  "dependencies": {
+    "firebase-admin": "^6.0.0",
+    "libshout-js": "^1.0.1"
+  }
+}
